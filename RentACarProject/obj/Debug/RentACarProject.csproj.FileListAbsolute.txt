@@ -1,0 +1,14 @@
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\bin\Debug\RentACarProject.exe.config
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\bin\Debug\RentACarProject.exe
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\bin\Debug\RentACarProject.pdb
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.csproj.AssemblyReference.cache
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.Form1.resources
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.FormAracYonetimi.resources
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.Properties.Resources.resources
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.csproj.GenerateResource.cache
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.csproj.CoreCompileInputs.cache
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.exe
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.pdb
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.FormMusteri.resources
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.Forms.FormRaporlama.resources
+C:\Users\EMİRHAN\Documents\Ntp-proje\RentACarProject\RentACarProject\obj\Debug\RentACarProject.Forms.FormKiralama.resources
